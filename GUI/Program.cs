@@ -18,6 +18,6 @@ namespace GUI
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());//А я добавил комментарий
-        }
+        }//а потом еще добавил
     }
 }
